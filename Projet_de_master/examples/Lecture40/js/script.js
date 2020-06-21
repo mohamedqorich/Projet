@@ -1,0 +1,1 @@
+var x = "Bonjours tout le monde!";
